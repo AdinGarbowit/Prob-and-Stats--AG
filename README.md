@@ -1,4 +1,4 @@
-# Probability and Statistics --Adin Garbowit
+# Probability and Statistics — Adin Garbowit
 
 ![CoinandDice](https://github.com/AdinGarbowit/Prob-and-Stats--AG/assets/156148504/89d588e9-2c67-43c0-a419-901cc0b2929d)
 

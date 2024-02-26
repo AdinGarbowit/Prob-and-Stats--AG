@@ -4,6 +4,7 @@
 
 ## Project Files
 [Alexnet Project Writeup](https://docs.google.com/document/d/1-vOv97uYIUcEPVO0hJw-lIsx48c-yJUyF9gQ6QBZCvA/edit?usp=sharing)
+[Alexnet Data Training](https://colab.research.google.com/drive/1YPgHHfigOcvK86xQ-98YxsoI-2H_ovML?usp=drive_link)
 ## Lab Folders
 [Lab 1](https://drive.google.com/drive/folders/1cYw-m8e_sDONsDEvTc5YN-VxMVQAUUvU?usp=sharing)
 

@@ -1,6 +1,5 @@
 # Probability and Statistics — Adin Garbowit
 
-![CoinandDice](https://github.com/AdinGarbowit/Prob-and-Stats--AG/assets/156148504/89d588e9-2c67-43c0-a419-901cc0b2929d)
 
 ## Final Project Files
 [Final Project](https://drive.google.com/drive/folders/1GHt_A39q5a5utq1Wk_fDA-6cJfbB8X6X?usp=sharing)
